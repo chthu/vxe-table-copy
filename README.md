@@ -50,7 +50,8 @@ const headerCellClick = async (e: any) => {
   emits('headerCellClick', e);
 };
 ```
-<img width="312" height="306" alt="image" src="https://github.com/user-attachments/assets/c9575345-d9b1-4cfd-9c2b-871de6632ccf" />
+<img width="315" height="310" alt="image" src="https://github.com/user-attachments/assets/a4b25355-6960-4ad7-ad85-411dc8373852" />
+
 ![20260303165347_rec_](https://github.com/user-attachments/assets/2207b7ae-072d-446f-a56a-53b390fa2c43)
 
 
