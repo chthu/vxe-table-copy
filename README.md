@@ -1,4 +1,5 @@
 # vxe-table-component
+``` ts
 <vxe-table
         ref="ytXTableRef"
         @keydown="keydownEvent"
@@ -48,3 +49,4 @@ const headerCellClick = async (e: any) => {
   headerClick(e);
   emits('headerCellClick', e);
 };
+```
